@@ -13,4 +13,5 @@ Loaded the dataset,checked wether it has any null values,plotted scatterplot to 
 As this is a regression analysis problem,trained a regression model to predict salary with Machine Learning.Before that divided the data into train and test sets.Used LinearRegression model and trained that model.Then predicted the salary of a person using the trained Machine Learning model.
 
 Python Libraries used:Numpy,Pandas,Seaborn
+
 Machine Learning model:LinearRegression.
